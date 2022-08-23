@@ -1,1 +1,1 @@
-select name, street from customers where city = 'Porto Alegre'
+SELECT name, street FROM customers WHERE city = 'Porto Alegre'
